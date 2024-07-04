@@ -1,7 +1,8 @@
 # R_for_beginners
 This is a place for the supplementary material for the course "A quick introduction to R", which I am preparing for the YouTube. 
 
-My channel on youtube is @ScientificIllustrations.
+My channel on youtube is @ScientificIllustrations, which is nearly impossible to find due to the youtube search algorythms. The direct link is https://www.youtube.com/@ScientificIllustrations-yx8wr
+
 There are three playlists so far:
 
 1. Very Quick introduction to R for absolute beginners
