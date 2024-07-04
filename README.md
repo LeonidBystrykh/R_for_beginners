@@ -1,5 +1,6 @@
 # R_for_beginners
-This is a place for the supplementary material for the course "A quick introduction to R", which I am preparing for the YouTube
+This is a place for the supplementary material for the course "A quick introduction to R", which I am preparing for the YouTube. 
+
 My channel on youtube is @ScientificIllustrations.
 There are three playlists so far:
 
