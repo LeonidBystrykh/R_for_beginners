@@ -5,6 +5,6 @@ I will appreciate if you pay visit to the channel, although
 it is aimed for absolute beginners with biology type of a background.
 
 edgeR_drosofila.R used in my video on YouTube https://www.youtube.com/watch?v=OO8_LEbKaRM
-
+edgeR_GSE104406_age_gender.R commented in my video on YouTube https://www.youtube.com/watch?v=2rM3g231qOY&ab_channel=ScientificIllustrations
 Leonid Bystrykh
 July 4, 2024
