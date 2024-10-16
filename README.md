@@ -14,6 +14,15 @@ It is aimed for absolute beginners with biology type of a background
 
 Script 1.Limma_edgeR is discussed in video https://youtu.be/R1opKMvT-WE
 
+2.limma_edgeR-voom.R is in https://youtu.be/XqKzMuXofYk
+
+3.QStart_edgeR_figs.R is in https://youtu.be/XqKzMuXofYk
+
+4.classic_edgeR_1factor.R is in https://youtu.be/8C74OgDrmVs
+
+5.alt_glm_edgeR.R is in https://youtu.be/8rMXqGX_W_A
+
+
 
 
 The work is in progress
