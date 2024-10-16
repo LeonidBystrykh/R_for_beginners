@@ -10,8 +10,10 @@ There are three playlists so far:
 3. Gene expression data for beginners
 
 branch edgeR_scripts contais scripts I used for the videos on youtube dedicated to edgeR protocols. There are 5 in total.
-
 It is aimed for absolute beginners with biology type of a background
+
+Script 1.Limma_edgeR is discussed in video https://youtu.be/R1opKMvT-WE
+
 
 
 The work is in progress
